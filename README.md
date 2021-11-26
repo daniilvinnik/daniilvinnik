@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @daniilvinnik
+- 👀 I’m interested in computer science and programming
+- 🌱 I’m currently learning Swift and Computer Architecture
